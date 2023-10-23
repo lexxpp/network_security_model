@@ -4,7 +4,7 @@
 
 ### During the work, all the main stages of the study were carried out:
 — downloading and reviewing data,
-- Preliminary processing,
+— Preliminary processing,
 — selection of the final set of training indicators,
 — selection and training of the model,
 — final assessment of the quality of prediction of the best models
